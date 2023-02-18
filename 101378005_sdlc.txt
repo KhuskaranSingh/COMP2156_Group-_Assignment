@@ -1,0 +1,5 @@
+The role of a DevOps engineer in the software development cycle is becoming increasingly important in today's fast-paced software development industry. A DevOps engineer is responsible for developing, testing, and deploying software in a rapid and efficient manner.
+
+DevOps helps to bridge the gap between software development and IT operations, ensuring that software is delivered quickly and with high quality. By automating the software development cycle and using continuous integration and delivery, DevOps engineers can help to reduce errors and improve the speed and reliability of software releases.
+
+Learning DevOps is crucial for any software developer or IT professional who wants to stay competitive in today's job market. By understanding the principles and practices of DevOps, professionals can contribute to the success of their organizations by developing and deploying software faster and more efficiently. George Brown College's COMP 2156 DevOps course is a great opportunity to gain the skills and knowledge needed to excel as a DevOps engineer in the software development cycle
