@@ -1,0 +1,6 @@
+COMP 2156 DevOps is a course offered by George Brown College that provides students with an in-depth understanding of the principles, practices, and tools used in DevOps. The course is designed to help students develop the skills and knowledge needed to work as DevOps engineers in various industries.
+
+The course covers a wide range of topics, including agile development, continuous integration and delivery, automation, monitoring, and cloud computing. Students will learn how to use various tools such as Jenkins, Docker, Kubernetes, and AWS to implement and manage DevOps processes.
+
+At the end of the course, students will be able to apply their knowledge to design, implement, and manage DevOps systems in a real-world setting. They will also be able to collaborate effectively with other members of a DevOps team.
+
