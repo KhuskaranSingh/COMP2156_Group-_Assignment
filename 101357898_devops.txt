@@ -1,0 +1,5 @@
+COMP2156 is a DevOps course offered by George Brown College. The course is designed to teach students the principles and practices of DevOps, including continuous integration, continuous delivery, infrastructure as code, monitoring and logging, and containerization.
+
+Throughout the course, students will learn how to use a range of DevOps tools and technologies, such as Git, Jenkins, Docker, Kubernetes, and AWS. They will also gain experience with scripting languages like Python and Bash.
+
+The course is typically offered as a part of George Brown College's Computer Science Technology program and is intended for students who have completed previous programming courses and have a basic understanding of software development.
