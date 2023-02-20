@@ -1,0 +1,7 @@
+COMP 2156 DevOps is a course that focuses on the principles and practices of DevOps, which is a methodology that combines development and operations teams to achieve faster and more reliable software delivery.
+
+The course covers a wide range of topics, including continuous integration and continuous delivery (CI/CD), infrastructure as code, containerization, monitoring, and automation. Students will learn how to use popular DevOps tools such as Git, Jenkins, Docker, and Kubernetes, and will gain hands-on experience deploying and managing applications in the cloud.
+
+The course also emphasizes collaboration, communication, and culture. Students will learn how to work effectively in cross-functional teams, foster a culture of continuous improvement, and ensure that their code is always production-ready.
+
+By the end of the course, students will have a deep understanding of DevOps principles and practices, as well as practical experience deploying and managing software in a DevOps environment. This knowledge and experience will be valuable for careers in software development, operations, and IT management.
